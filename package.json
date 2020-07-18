@@ -2,7 +2,7 @@
   "name": "ezlearn-ui",
   "version": "0.0.0",
   "engines": {
-    "node": "8.9.4",
+    "node": "10.16.3",
     "npm": "6.11.2"
   },
   "scripts": {
